@@ -1,0 +1,11 @@
+div{
+    width: 300px;
+    display: inline-block;
+}
+#add-pet-btn{
+    color: white;
+    background-color: darkseagreen;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
